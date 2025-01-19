@@ -1,1 +1,11 @@
 # CODTECH-snakegame
+# CODTECH-FileManagementtool
+**Name:** RITHANYA BR
+**Company:** CODTECH IT SOLUTIONS
+**ID:** CT08FNT
+**Domain:** C++ PROGRAMMING
+**Duration:** 20 Dec 2024 to 20 Jan 2025
+**Mentor:** Neela Santhosh Kumar
+
+## Project: GAME DEVELOPMENT:SNAKE GAME
+A VISUALLY ENGAGING C++ GAME WITH SOUND EFFECTS AND INCREASING DIFFICULTY LEVELS.
